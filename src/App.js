@@ -18,7 +18,7 @@ export default function App() {
 }
 
 function Heading() {
-  return <h1>THE GREATES QUIZ EVER</h1>;
+  return <h1>THE GREATEST QUIZ EVER</h1>;
 }
 
 function Question({ setStartQuiz }) {
